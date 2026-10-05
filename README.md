@@ -26,7 +26,7 @@ local Window = LoYaL_UI:CreateWindow({
     ["Tab Width"] = 120,
     SizeUi = UDim2.fromOffset(550, 315),
     Config = "MyConfig",
-    Key = "YOUR_KEY_HERE"
+    Key = "kF9Q2R7A6vM4JdPZyXb0mC5nL8sHqE1T3wUoGrIYxKWSVtBeN4yD6J0E5T2PZbCqA7HMWLXv1rVFtQmGUYw3xIOeB9sK8RA2D7M_P5E4RZ0C2W1L8F3H6TBYDVGJNKISUOQX9AR7MP5"
 })
 
 -- Create a tab and a section
