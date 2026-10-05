@@ -1,5 +1,5 @@
 -- Load the UI library
-local LoYaL_UI = loadstring(game:HttpGet("https://codeberg.org/Havoc-User/UI/raw/branch/main/Library129.txt"))()
+local LoYaL_UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/LoYaLClan/LoYaLs-Library/refs/heads/main/Library.luau"))()
 
 
 -- Create the main window
